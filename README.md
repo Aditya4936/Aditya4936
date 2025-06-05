@@ -52,7 +52,7 @@ I'm a passionate full-stack developer who loves bringing bold ideas to life thro
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/aditya-patel-286662212))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patel-286662212)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-aditya.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6984akvl@gmail.com)
 
