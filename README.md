@@ -34,12 +34,6 @@ I'm a passionate full-stack developer who loves bringing bold ideas to life thro
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapatel-01&show_icons=true&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatel-01&layout=compact&theme=radical)
 
 ---
 
